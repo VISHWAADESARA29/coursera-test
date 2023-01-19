@@ -1,0 +1,25 @@
+h1
+{
+	text-align:center;
+	padding:20px;
+}
+#ma
+{
+	margin:30px;
+}
+.div1
+{
+	 border: 3px solid black;
+	 margin-left:1px;
+	 background-color:yellow;
+}
+.h1
+{
+	
+	border:1px solid black;
+	text-align:right;
+	width:200px;
+	margin-left:200px;
+	background-color:aqua;
+	
+}
